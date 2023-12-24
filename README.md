@@ -54,3 +54,7 @@ Implement a user-friendly menu in the console interface for easy interaction.
 
 ## **Installation**
 **Dev C++**
+
+Contributing Contributions to enhance the system's features, improve user experience, or fix issues are highly encouraged. 
+If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request. 
+Your input is invaluable in making this Library Management System even better!
