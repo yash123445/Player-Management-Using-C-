@@ -21,7 +21,7 @@ If found, shift the remaining players to remove the specified player.Update the 
 Iterate through the existing players and display their details.
 Include a separator between player records for better readability.
 
-##**Implementation Guidance:**
+## **Implementation Guidance:**
 
 **Class Structure:**
 Have a player class with appropriate member variables for player details and methods for setting and getting those details.
